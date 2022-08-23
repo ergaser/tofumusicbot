@@ -39,7 +39,7 @@ venv/bin/python tgmusicbot.py
 AGPL-3.0-or-later
 
 ```
-tgmusicbot, Telegram audio downloader bot
+tofu musicbot, Telegram audio downloader bot
 Copyright (C) 2021  Dash Eclipse
 
 This program is free software: you can redistribute it and/or modify
